@@ -1,3 +1,6 @@
+#Clone the repo, do npm install then go to http://localhost:3000/video to see the video component.
+***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
